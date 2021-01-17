@@ -1,2 +1,1 @@
-# portfolio
-My portfolio: images, pictures, animations, programms
+# My portfolio: images, pictures, animations, programms
